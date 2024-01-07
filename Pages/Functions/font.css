@@ -1,0 +1,27 @@
+.menu-item h3 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu-item p {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.add-to-cart {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: gray;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.custom-font1 {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif; 
+}
+
+.custom-font2 {
+    font-family: 'Roboto', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
